@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 <!--
-**mine2424/mine2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kerolloz/kerolloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  
+### Hi there 👋
+:octocat:  
+Welcome to my **favorite** profile on the internet! 🌍  
+:telescope: Check out [what I have been recently working on](#js-contribution-activity)
+
+![counter](https://enq2tsi38eur1vl.m.pipedream.net)  
+[![Most Active GitHub User in Egypt Rank](https://en2bnd5v3totrva.m.pipedream.net)](https://commits.top/egypt)  
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=mine2424&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+  <span>---</span>
+  <br>
+  <i>"Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"</i>
+  
+</div>
