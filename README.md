@@ -9,9 +9,9 @@
  
 
 ### 🤵 About Me:
-+ 🏫 I'm currently a 3rd year student at a university in Japan.
-+ 🌱 I'm currently learning Flutter.
-+ 📝 I recently started a blog-like thing on note.
+ 🏫 I'm currently a 3rd year student at a university in Japan.
+ 🌱 I'm currently learning Flutter.
+ 📝 I recently started a blog-like thing on note.
 
 Welcome to my **favorite** profile on the internet! 🌍  
 :telescope: Check out [what I have been recently working on](#js-contribution-activity)
