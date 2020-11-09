@@ -9,7 +9,7 @@
  
 
 ### 🤵 About Me:
-<p> 🏫 I'm currently a 1 year student at a university in Japan.</p>
+<p> 🏫 I'm currently 1st year student at a university in Japan.</p>
 <p>🌱 I'm currently learning Flutter.</p>
 <p>📝 I recently started a youtube !(channel name is みね。)</p>
 
