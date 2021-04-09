@@ -9,9 +9,9 @@
  
 
 ### 🤵 About Me:
-<p> 🏫 I'm currently 1st year student at a university in Japan.</p>
+<p> 🏫 I'm currently 2nd year student at a university in Japan.</p>
 <p>🌱 I'm currently learning Flutter.</p>
-<p>📝 I recently started a youtube !(channel name is みね。)</p>
+// <p>📝 I recently started a youtube !(channel name is みね。)</p>
 
 Welcome to my **favorite** profile on the internet! 🌍  
 :telescope: Check out [what I have been recently working on](#js-contribution-activity)
