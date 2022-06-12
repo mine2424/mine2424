@@ -1,24 +1,37 @@
-<div align="">
+<!--
+**mine2424/mine2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+<div align="center">
+  <p>🤵 About Me:  </p>
   
-### Hi there 👋
-:octocat:
-<a href="https://twitter.com/nihon_kaizou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" width="30" /></a>&nbsp;
-</p>
+  <p> 🏫 I'm currently 3nd year student at a university in Japan.</p>
+  <p>🌱 I'm currently learning Flutter.</p>
   
-<p align="center">
- 
-
-### 🤵 About Me:
-<p> 🏫 I'm currently 3nd year student at a university in Japan.</p>
-<p>🌱 I'm currently learning Flutter.</p>
-
-Welcome to my **favorite** profile on the internet! 🌍  
-:telescope: Check out [what I have been recently working on](#js-contribution-activity)
-
-### 📈 My Github stats:
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=mine2424&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mine2424&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
-
+  Welcome to my **favorite** profile on the internet! 🌍  
+  :telescope: Check out [what I have been recently working on](#js-contribution-activity)
   
 </div>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mine2424&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mine2424&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mine2424&layout=compact&theme=onedark
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
