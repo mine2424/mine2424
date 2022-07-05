@@ -6,8 +6,8 @@ Web and Mobile Developer
 
 * 🌍  I'm based in Japan, Tokyo
 * ✉️  You can contact me at [minewest065524@gmail.com](mailto:minewest065524@gmail.com)
-* 🚀  I'm currently working on [Matatabi](http://github.com/mine2424/matatabi_app)
-* 🧠  I'm learning kotlin, Rust, Flutter(more deep)
+* 🚀  I'm currently working on [Acompany](https://acompany.tech/)
+* 🧠  I'm learning Next.js, kotlin, Rust, Flutter(more deep)
 * ⚡  I'm junior at osaka university of ecomomics
 
 <a href="https://www.twitter.com/nihon_kaizou" target="_blank" rel="noreferrer"><img
