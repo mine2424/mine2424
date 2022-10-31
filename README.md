@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Mobile Developer
 ------------------------
 
-* 🌍  I'm based in Japan, Tokyo
+* 🌍  I'm based in Japan, Osaka
 * ✉️  You can contact me at [minewest065524@gmail.com](mailto:minewest065524@gmail.com)
 * 🚀  I'm currently working on [Acompany](https://acompany.tech/)
 * 🧠  I'm learning Next.js, kotlin, Rust, Flutter(more deep)
