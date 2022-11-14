@@ -6,7 +6,7 @@ Web and Mobile Developer
 
 * 🌍  I'm based in Japan, Osaka
 * ✉️  You can contact me at [minewest065524@gmail.com](mailto:minewest065524@gmail.com)
-* 🚀  I'm currently working on [Acompany](https://acompany.tech/)
+* 🚀  I'm currently working on [CyberAgent](https://www.cyberagent.co.jp/)
 * 🧠  I'm learning Next.js, kotlin, Rust, Flutter(more deep)
 * ⚡  I'm junior at osaka university of ecomomics
 
