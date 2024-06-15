@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Mobile Developer
 ------------------------
 
-* 🌍  I'm based in Japan, Osaka
+* 🌍  I'm based in Japan, Tokyo
 * ✉️  You can contact me at [minewest065524@gmail.com](mailto:minewest065524@gmail.com)
 * 🚀  I'm currently working on [CyberAgent](https://www.cyberagent.co.jp/)
 * 🧠  I'm learning Next.js, kotlin, Rust, Flutter(more deep)
-* ⚡  I'm junior at osaka university of ecomomics
 
 <a href="https://www.twitter.com/nihon_kaizou" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/nihon_kaizou?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
